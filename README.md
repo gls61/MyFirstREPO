@@ -1,4 +1,4 @@
 # MyFirstREPO
-My first repository
-Hello world
-My name is Garrett
+This is my first repository.
+Hello world,
+my name is Garrett
