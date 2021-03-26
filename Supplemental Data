@@ -1,9 +1,0 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.datasets import make_regression
-data1 = make regression(n_samples=40, n_features=4, n_informative=2, n_targets=1, bias=0.0, effective_rank=None,tail_strength=0.5, noise=0.0, shuffle=True, coef=False, random_state=None)
-df1 = pd.DataFrame(data1[0],columns=['x'+str(i) for i in range (1,5)])
-df1['y'] = data1[1]
-df1.head()
